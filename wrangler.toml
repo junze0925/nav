@@ -1,11 +1,11 @@
 name = "junze-web"
 account_id = "75272e1ccb256bae87f8c7419053c02b"
 main = "src/index.js"
-compatibility_date = "2026-07-17"
+compatibility_date = "2026-07-28"
 
 [[d1_databases]]
 binding = "NAV_DB"
-database_name = "book"
+database_name = "junze-web"
 database_id = "f9eb1e79-ac15-40bd-8439-b579629f00ba"
 
 [[kv_namespaces]]
