@@ -1,7 +1,7 @@
 name = "junze-web"
 account_id = "75272e1ccb256bae87f8c7419053c02b"
 main = "src/index.js"
-compatibility_date = "2026-07-28"
+compatibility_date = "2026-07-27"
 
 [[d1_databases]]
 binding = "NAV_DB"
